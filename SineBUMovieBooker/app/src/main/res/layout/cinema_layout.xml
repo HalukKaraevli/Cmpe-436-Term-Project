@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cinemaSeats"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="8dp"
+    android:layout_marginStart="8dp"
+    android:background="@android:color/background_light"
+    android:clickable="false"
+    android:orientation="vertical"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    tools:layout_editor_absoluteY="40dp"
+    tools:showIn="@layout/activity_main">
+
+    <LinearLayout
+        android:id="@+id/row1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat1-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat1-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat2-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat2-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat3-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat3-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat4-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat4-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat5-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat5-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat6-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat6-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat7-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat7-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat8-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat8-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat9-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat9-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/seat10-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-11"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat10-14"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="27dp"
+        android:layout_marginRight="27dp"
+        android:baselineAligned="false">
+
+        <ImageView
+            android:id="@+id/seat11-1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-3"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-6"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-7"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-8"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+        <ImageView
+            android:id="@+id/seat11-10"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/available_seat" />
+
+    </LinearLayout>
+
+</LinearLayout>
